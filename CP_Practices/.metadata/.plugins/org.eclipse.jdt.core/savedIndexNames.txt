@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+G:\Elam_projects\STS\Java_workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
